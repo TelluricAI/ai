@@ -1,3 +1,3 @@
-module github.com/TelluricAI/ai/packages/go
+module github.com/TelluricAI/ai
 
 go 1.18
